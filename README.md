@@ -81,9 +81,10 @@ shell by using the command:
     python -m pip install PackageName==VersionNumber --user
 ## Support
 
-For support, email neenunaz2002@gmail.com 
+For support, email sk.afrin42@gmail.com
 or contact sushuramya2422@gmail.com
            sk.afrin42@gmail.com
+           neenunaz2002@gmail.com 
            bhargaviemani15@gmail.com 
 
 
