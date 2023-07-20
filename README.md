@@ -8,6 +8,8 @@ On average 1200 rest gets effected badly. The major reason of these accidents is
 
 
 Deployment
+
+
 To deploy this project in Visual Studio terminal run
 
 ```py sas.py runserver
